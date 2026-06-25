@@ -1,0 +1,12 @@
+# Mon premier fichier GitHub
+
+Bonjour GitHub !
+
+Ceci est mon **premier fichier** créé sur le dépôt distant.
+La date de création est : `25/06/2026`
+
+Mon premier projet avec Git et GitHub commence ici !
+
+---
+
+Créé par : **achref04-maker**
